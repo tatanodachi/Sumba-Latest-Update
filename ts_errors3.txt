@@ -1,0 +1,5 @@
+src/App.tsx(2288,1): error TS1005: '}' expected.
+src/components/UI.tsx(1656,1): error TS1005: '}' expected.
+src/views/AssetSettingsView.tsx(925,28): error TS1003: Identifier expected.
+src/views/AssetSettingsView.tsx(925,33): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/views/AssetSettingsView.tsx(929,28): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?

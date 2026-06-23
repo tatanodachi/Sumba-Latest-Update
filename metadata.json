@@ -1,0 +1,8 @@
+{
+  "name": "Sumba Multi-Cluster Glamping Resort Model",
+  "description": "An interactive pre-feasibility, financial underwriting and capital cascade model for the Sumba Glamping Resort clusters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,12 @@
+src/App.tsx(438,9): error TS1128: Declaration or statement expected.
+src/App.tsx(439,7): error TS1128: Declaration or statement expected.
+src/App.tsx(440,5): error TS1128: Declaration or statement expected.
+src/App.tsx(440,6): error TS1128: Declaration or statement expected.
+src/App.tsx(442,3): error TS1128: Declaration or statement expected.
+src/App.tsx(442,4): error TS1128: Declaration or statement expected.
+src/App.tsx(442,49): error TS1005: ';' expected.
+src/App.tsx(445,1): error TS1128: Declaration or statement expected.
+src/components/UI.tsx(1656,1): error TS1005: '}' expected.
+src/views/AssetSettingsView.tsx(925,28): error TS1003: Identifier expected.
+src/views/AssetSettingsView.tsx(925,33): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/views/AssetSettingsView.tsx(929,28): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
